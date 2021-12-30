@@ -5,3 +5,9 @@ h1{
     font-weight: bold;
     color: cornsilk;
 }
+nav{
+    background-color: darkgray;
+}
+li{
+    color: darkorange;
+}
